@@ -135,7 +135,7 @@ android_library {
 // Build rule for Launcher3 app.
 //
 android_app {
-    name: "Launcher3",
+    name: "Concord",
 
     static_libs: [
         "Launcher3CommonDepsLib",
