@@ -164,7 +164,10 @@
         package="com.chrome.beta" />
     <icon
         drawable="@drawable/themed_icon_chrome"
-        package="com.android.chrome" />
+	package="com.android.chrome" />
+    <icon
+	drawable="@drawable/themed_icon_chrome"
+	package="de.baumann.browser" />
     <icon
         drawable="@drawable/themed_icon_chrome_canary"
         package="com.chrome.canary" />
@@ -1648,7 +1651,10 @@
         package="net.zedge.android" />
     <icon
         drawable="@drawable/themed_icon_simple_gallery_pro"
-        package="com.simplemobiletools.gallery" />
+	package="com.simplemobiletools.gallery" />
+    <icon
+	drawable="@drawable/themed_icon_simple_gallery_pro"
+	package="com.android.gallery3d" />
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.googleCamera.Wichaya8" />
